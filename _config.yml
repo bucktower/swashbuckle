@@ -2,11 +2,11 @@
 email: buck@bucktower.net
 baseurl: ""
 port: 8080
-permalink: /:year/:month/:day/:title/
+permalink: /:title/
 google_analytics: UA-53410540-5
 
 name: Buck Tower
-title: Swashbuckle Studios
+title: Swashbuckle
 description: >
   The nexus of Buck's personal projects
 url: https://swashbuckle.dev
@@ -23,7 +23,7 @@ social:
     url: https://github.com/bucktower
 
 # Contact settings
-contact_img: /assets/images/placeholder-28.jpg
+contact_img: /assets/images/dino-reichmuth-A5rCN8626Ck-unsplash.jpg
 formcarry: https://formcarry.com/s/naTv5X4Q6D-
 
 # Disqus settings
@@ -58,7 +58,7 @@ autopages:
   tags:
     layouts: 
       - 'tag.html'
-    title: 'The Barber Theme'
+    title: 'Swashbuckle'
     permalink: '/tag/:tag'
     slugify:
       mode: raw
