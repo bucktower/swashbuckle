@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Piques"
+title: "Squash"
 date: 2019-08-25
 description: Professional concert photos
-image: /assets/images/piquesemoji.png
+image: /assets/images/squashemoji.png
 author: Buck Tower
 tags: 
   - Web

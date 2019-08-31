@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Piques"
+title: "Buildarium"
 date: 2019-08-25
 description: Professional concert photos
-image: /assets/images/piquesemoji.png
+image: /assets/images/buildariumemoji.png
 author: Buck Tower
 tags: 
   - Web
