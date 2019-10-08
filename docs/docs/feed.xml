@@ -6,9 +6,49 @@
 </description>
     <link>https://swashbuckle.dev</link>
     <atom:link href="https://swashbuckle.dev/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 25 Aug 2019 07:17:46 +0000</pubDate>
-    <lastBuildDate>Sun, 25 Aug 2019 07:17:46 +0000</lastBuildDate>
+    <pubDate>Sat, 31 Aug 2019 19:58:06 +0000</pubDate>
+    <lastBuildDate>Sat, 31 Aug 2019 19:58:06 +0000</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>Squash</title>
+        <description>&lt;p&gt;🎫 Professional concert photos. Everyone posts photos of festivals and concerts with friends to their Instagram, but given the attention to editing some people put in, it makes sense to have an easy way to get professional pictures taken, edited, and delivered.&lt;/p&gt;
+
+&lt;h2 id=&quot;links&quot;&gt;Links&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://docs.google.com/document/d/10MGxAuerO8S62fOJGI70085FeVFqUWtyWL9cqg8jPoU/edit?usp=sharing&quot;&gt;Planning Document&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;&quot;&gt;Kanban Board&lt;/a&gt; &lt;b&gt;WIP&lt;/b&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/piquestech&quot;&gt;Source Code&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;&quot;&gt;Live Site&lt;/a&gt; &lt;b&gt;WIP&lt;/b&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;stack&quot;&gt;Stack&lt;/h2&gt;
+
+&lt;p&gt;Languages, tools and frameworks used:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Figma&lt;/li&gt;
+  &lt;li&gt;Photoshop&lt;/li&gt;
+  &lt;li&gt;Typescript&lt;/li&gt;
+  &lt;li&gt;React&lt;/li&gt;
+  &lt;li&gt;Firebase&lt;/li&gt;
+  &lt;li&gt;Stripe&lt;/li&gt;
+  &lt;li&gt;Github&lt;/li&gt;
+  &lt;li&gt;Trello&lt;/li&gt;
+  &lt;li&gt;Google Docs&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Sun, 25 Aug 2019 00:00:00 +0000</pubDate>
+        <link>https://swashbuckle.dev/squash/</link>
+        <guid isPermaLink="true">https://swashbuckle.dev/squash/</guid>
+        
+        <category>Web</category>
+        
+        <category>Mobile</category>
+        
+        
+      </item>
     
       <item>
         <title>Piques</title>
@@ -42,6 +82,166 @@
         <pubDate>Sun, 25 Aug 2019 00:00:00 +0000</pubDate>
         <link>https://swashbuckle.dev/piques/</link>
         <guid isPermaLink="true">https://swashbuckle.dev/piques/</guid>
+        
+        <category>Web</category>
+        
+        <category>Mobile</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Karaban</title>
+        <description>&lt;p&gt;🎫 Professional concert photos. Everyone posts photos of festivals and concerts with friends to their Instagram, but given the attention to editing some people put in, it makes sense to have an easy way to get professional pictures taken, edited, and delivered.&lt;/p&gt;
+
+&lt;h2 id=&quot;links&quot;&gt;Links&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://docs.google.com/document/d/10MGxAuerO8S62fOJGI70085FeVFqUWtyWL9cqg8jPoU/edit?usp=sharing&quot;&gt;Planning Document&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;&quot;&gt;Kanban Board&lt;/a&gt; &lt;b&gt;WIP&lt;/b&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/piquestech&quot;&gt;Source Code&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;&quot;&gt;Live Site&lt;/a&gt; &lt;b&gt;WIP&lt;/b&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;stack&quot;&gt;Stack&lt;/h2&gt;
+
+&lt;p&gt;Languages, tools and frameworks used:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Figma&lt;/li&gt;
+  &lt;li&gt;Photoshop&lt;/li&gt;
+  &lt;li&gt;Typescript&lt;/li&gt;
+  &lt;li&gt;React&lt;/li&gt;
+  &lt;li&gt;Firebase&lt;/li&gt;
+  &lt;li&gt;Stripe&lt;/li&gt;
+  &lt;li&gt;Github&lt;/li&gt;
+  &lt;li&gt;Trello&lt;/li&gt;
+  &lt;li&gt;Google Docs&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Sun, 25 Aug 2019 00:00:00 +0000</pubDate>
+        <link>https://swashbuckle.dev/karaban/</link>
+        <guid isPermaLink="true">https://swashbuckle.dev/karaban/</guid>
+        
+        <category>Web</category>
+        
+        <category>Mobile</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>IndieCasa</title>
+        <description>&lt;p&gt;🎫 Professional concert photos. Everyone posts photos of festivals and concerts with friends to their Instagram, but given the attention to editing some people put in, it makes sense to have an easy way to get professional pictures taken, edited, and delivered.&lt;/p&gt;
+
+&lt;h2 id=&quot;links&quot;&gt;Links&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://docs.google.com/document/d/10MGxAuerO8S62fOJGI70085FeVFqUWtyWL9cqg8jPoU/edit?usp=sharing&quot;&gt;Planning Document&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;&quot;&gt;Kanban Board&lt;/a&gt; &lt;b&gt;WIP&lt;/b&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/piquestech&quot;&gt;Source Code&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;&quot;&gt;Live Site&lt;/a&gt; &lt;b&gt;WIP&lt;/b&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;stack&quot;&gt;Stack&lt;/h2&gt;
+
+&lt;p&gt;Languages, tools and frameworks used:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Figma&lt;/li&gt;
+  &lt;li&gt;Photoshop&lt;/li&gt;
+  &lt;li&gt;Typescript&lt;/li&gt;
+  &lt;li&gt;React&lt;/li&gt;
+  &lt;li&gt;Firebase&lt;/li&gt;
+  &lt;li&gt;Stripe&lt;/li&gt;
+  &lt;li&gt;Github&lt;/li&gt;
+  &lt;li&gt;Trello&lt;/li&gt;
+  &lt;li&gt;Google Docs&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Sun, 25 Aug 2019 00:00:00 +0000</pubDate>
+        <link>https://swashbuckle.dev/indiecasa/</link>
+        <guid isPermaLink="true">https://swashbuckle.dev/indiecasa/</guid>
+        
+        <category>Web</category>
+        
+        <category>Mobile</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Genierous</title>
+        <description>&lt;p&gt;🎫 Professional concert photos. Everyone posts photos of festivals and concerts with friends to their Instagram, but given the attention to editing some people put in, it makes sense to have an easy way to get professional pictures taken, edited, and delivered.&lt;/p&gt;
+
+&lt;h2 id=&quot;links&quot;&gt;Links&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://docs.google.com/document/d/10MGxAuerO8S62fOJGI70085FeVFqUWtyWL9cqg8jPoU/edit?usp=sharing&quot;&gt;Planning Document&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;&quot;&gt;Kanban Board&lt;/a&gt; &lt;b&gt;WIP&lt;/b&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/piquestech&quot;&gt;Source Code&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;&quot;&gt;Live Site&lt;/a&gt; &lt;b&gt;WIP&lt;/b&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;stack&quot;&gt;Stack&lt;/h2&gt;
+
+&lt;p&gt;Languages, tools and frameworks used:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Figma&lt;/li&gt;
+  &lt;li&gt;Photoshop&lt;/li&gt;
+  &lt;li&gt;Typescript&lt;/li&gt;
+  &lt;li&gt;React&lt;/li&gt;
+  &lt;li&gt;Firebase&lt;/li&gt;
+  &lt;li&gt;Stripe&lt;/li&gt;
+  &lt;li&gt;Github&lt;/li&gt;
+  &lt;li&gt;Trello&lt;/li&gt;
+  &lt;li&gt;Google Docs&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Sun, 25 Aug 2019 00:00:00 +0000</pubDate>
+        <link>https://swashbuckle.dev/genierous/</link>
+        <guid isPermaLink="true">https://swashbuckle.dev/genierous/</guid>
+        
+        <category>Web</category>
+        
+        <category>Mobile</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Buildarium</title>
+        <description>&lt;p&gt;🎫 Professional concert photos. Everyone posts photos of festivals and concerts with friends to their Instagram, but given the attention to editing some people put in, it makes sense to have an easy way to get professional pictures taken, edited, and delivered.&lt;/p&gt;
+
+&lt;h2 id=&quot;links&quot;&gt;Links&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://docs.google.com/document/d/10MGxAuerO8S62fOJGI70085FeVFqUWtyWL9cqg8jPoU/edit?usp=sharing&quot;&gt;Planning Document&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;&quot;&gt;Kanban Board&lt;/a&gt; &lt;b&gt;WIP&lt;/b&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/piquestech&quot;&gt;Source Code&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;&quot;&gt;Live Site&lt;/a&gt; &lt;b&gt;WIP&lt;/b&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;stack&quot;&gt;Stack&lt;/h2&gt;
+
+&lt;p&gt;Languages, tools and frameworks used:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Figma&lt;/li&gt;
+  &lt;li&gt;Photoshop&lt;/li&gt;
+  &lt;li&gt;Typescript&lt;/li&gt;
+  &lt;li&gt;React&lt;/li&gt;
+  &lt;li&gt;Firebase&lt;/li&gt;
+  &lt;li&gt;Stripe&lt;/li&gt;
+  &lt;li&gt;Github&lt;/li&gt;
+  &lt;li&gt;Trello&lt;/li&gt;
+  &lt;li&gt;Google Docs&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Sun, 25 Aug 2019 00:00:00 +0000</pubDate>
+        <link>https://swashbuckle.dev/buildarium/</link>
+        <guid isPermaLink="true">https://swashbuckle.dev/buildarium/</guid>
         
         <category>Web</category>
         

@@ -6,8 +6,8 @@
 </description>
     <link>https://swashbuckle.dev</link>
     <atom:link href="https://swashbuckle.dev/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 31 Aug 2019 19:58:06 +0000</pubDate>
-    <lastBuildDate>Sat, 31 Aug 2019 19:58:06 +0000</lastBuildDate>
+    <pubDate>Tue, 08 Oct 2019 14:51:52 +0000</pubDate>
+    <lastBuildDate>Tue, 08 Oct 2019 14:51:52 +0000</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
@@ -92,7 +92,16 @@
     
       <item>
         <title>Karaban</title>
-        <description>&lt;p&gt;🎫 Professional concert photos. Everyone posts photos of festivals and concerts with friends to their Instagram, but given the attention to editing some people put in, it makes sense to have an easy way to get professional pictures taken, edited, and delivered.&lt;/p&gt;
+        <description>&lt;p&gt;🐪 Karaban is a simple card-based kanban organizational tool useful for breaking complex projects and business processes into simple cards.&lt;/p&gt;
+
+&lt;p&gt;A Karaban “board” consists of 4 columns: Backlog, Todo, Doing, and Done. Cards, representing tasks or ideas are created in Backlog, and after further discussion and refinement are added to Todo upon being added to the roadmap. Every card in the Todo column must have a principal assignee/stakeholder. Upon receiving a target deliverable/due date or being actively worked on (due date becomes “ASAP”), a card moves to Doing. Upon completion, a card is moved to Done. A critical feature of Karaban is the chat feature. Rather than relying on different channels for broadly defined teams where occasionally multiple teams talk over each other, Karaban draws on the idea of the “continuing the converation” feature by giving each card it’s own chat over having an in-depth description.&lt;/p&gt;
+
+&lt;p&gt;Kanban boads are nothing new. Products like JIRA, Monday, and Trello are great tools using them and are extremely flexible and customizable with powerups and customer integrations. However, for many projects, especially early-stage ones, customizability and uniqueness in the meta of project management is a large overhead and obstacle towards actually getting started on building the thing.&lt;/p&gt;
+
+&lt;p&gt;In providing an opinionated toolset to build with rather than a blank canvas to paint upon, Karaban aims to give small and mid-size teams hyper-agility at the cost of customization much the way Firebase is quick to develop and easy for new devs to pick up compared to a swarm of custom microservice backends along with their architecture and infrastructure.&lt;/p&gt;
+
+&lt;p&gt;To get started, go to karaban.dev, create an account, and create your first board. You probably want to invite some of your collaborators to it as well.
+JIRA is the best tool possible for running large organizations as agile as possible&lt;/p&gt;
 
 &lt;h2 id=&quot;links&quot;&gt;Links&lt;/h2&gt;
 
@@ -172,7 +181,17 @@
     
       <item>
         <title>Genierous</title>
-        <description>&lt;p&gt;🎫 Professional concert photos. Everyone posts photos of festivals and concerts with friends to their Instagram, but given the attention to editing some people put in, it makes sense to have an easy way to get professional pictures taken, edited, and delivered.&lt;/p&gt;
+        <description>&lt;p&gt;🧞 Genierous is an on-demand gift delivery service to make it easy to gift-give anywhere with the tap of a finger.&lt;/p&gt;
+
+&lt;p&gt;Genierous provides anyone an easy way to send gifts on-demand to friends, family members, or even distant relatives. Via Postmates’ third-party delivery service, we organize, schedule, and execute timely in-person gift deliveries for local products in far-away places ranging from native flowers from a local florist to some fresh-baked cookies in a distant city’s highest-rated hometown bakery.&lt;/p&gt;
+
+&lt;p&gt;Edible arrangements are the gift-giving equivalent of a Honda Civic. By no means are generic gift bad! However, gifts are much more meaningful with personalization, and, well, a personalization and delivery that say to a recipient that you spent a bit more effort and time than a 5-minute phone call with the cheapest nationwide gift packaging company. Generic gifts are safe and inoffensive, which might be the right thing to give if you barely know someone, but they say very little about a relationship whereas gift-giving is one of the best opportunities to let someone know how much you really know and appreciate them.&lt;/p&gt;
+
+&lt;p&gt;With Genierous, gift-giving is much more personalized, yet also streamlined and efficient. After coordinating with a local place of business such as a bakery for a set pickup time, Genierous collects from the “giver” the “getter”’s name, address, and phone number. Genierous then is able to coordinate a pickup and in-person delivery after confirming a good delivery time and address for an incoming package with the getter, all easily trackable to completion by the giver who may be thousands of miles away.&lt;/p&gt;
+
+&lt;p&gt;To get started, download the Genierous app and give a gift to someone you might not easily see in person on a daily basis.&lt;/p&gt;
+
+&lt;p&gt;Given that delivery services and gifts are both getting cheaper and more commonplace, Genierous provides a way to harness technology and on-demand services for a purpose other than purely helping oneself like Amazon Prime or GrubHub.&lt;/p&gt;
 
 &lt;h2 id=&quot;links&quot;&gt;Links&lt;/h2&gt;
 
@@ -212,7 +231,17 @@
     
       <item>
         <title>Buildarium</title>
-        <description>&lt;p&gt;🎫 Professional concert photos. Everyone posts photos of festivals and concerts with friends to their Instagram, but given the attention to editing some people put in, it makes sense to have an easy way to get professional pictures taken, edited, and delivered.&lt;/p&gt;
+        <description>&lt;p&gt;🧱 Buildarium is a creative building experience that connects real life building sets with an infinite virtual universe.&lt;/p&gt;
+
+&lt;p&gt;The buildarium ecosystem consists of both physical and digital parts. Upon buying a kit, users have the ability to 3D print their own interlocking building blocks or use are print-and-ship service. Upon building the set, users are able to give it life beyond a dusty shelf by activating it via an in-app NFC scan. The Buildarium Universe is a sandbox-like RTS/FPS game structured around planets and solar systems where users collect resources and build a civilization often with their friends.&lt;/p&gt;
+
+&lt;p&gt;Besides a hefty price tag, building blocks like LEGOs often have a very short lifespan as a toy and are most likely to sit on a shelf and gather dust for eternity after being initially built. Similarly, video sandbox games like Minecraft, Halo Reach Forge mode, and Roblox offer an ever-changing landscape but lack the centrality, quality control, and connectedness to effectively facilitate multiplayer experiences, and often end up repetitive as a result.&lt;/p&gt;
+
+&lt;p&gt;In harnessing 3D printing, Buildarium offers unlimited space for modifications to the physical side, while still providing a shelf life longer than a week with the digital Buildarium Universe at a cheaper price than conventional building sets. Additionally, in being fundamentally centered around multiplayer, Buildarium makes playing with friends much more accessible, while offering a more streamlined process to include user-generated content into both worlds.&lt;/p&gt;
+
+&lt;p&gt;To get started, visit buildarium.com and open an account. The first step towards building a Buildarium civilization would be purchasing, building, and activating the Homestead Kit.&lt;/p&gt;
+
+&lt;p&gt;Buildarium aims to bring the building sets and sandbox games of yesteryear into the modern day. We aim to do this by marrying both the physical and digital creative worlds, and reaping the maximum benefits of both, such as infinite building possibilities, user-generated content, and procedurally-generated ever-expanding universes.&lt;/p&gt;
 
 &lt;h2 id=&quot;links&quot;&gt;Links&lt;/h2&gt;
 
