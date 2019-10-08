@@ -9,7 +9,17 @@ tags:
   - Web
   - Mobile
 ---
-🎫 Professional concert photos. Everyone posts photos of festivals and concerts with friends to their Instagram, but given the attention to editing some people put in, it makes sense to have an easy way to get professional pictures taken, edited, and delivered.
+🐪 Karaban is a simple card-based kanban organizational tool useful for breaking complex projects and business processes into simple cards.
+
+A Karaban "board" consists of 4 columns: Backlog, Todo, Doing, and Done. Cards, representing tasks or ideas are created in Backlog, and after further discussion and refinement are added to Todo upon being added to the roadmap. Every card in the Todo column must have a principal assignee/stakeholder. Upon receiving a target deliverable/due date or being actively worked on (due date becomes "ASAP"), a card moves to Doing. Upon completion, a card is moved to Done. A critical feature of Karaban is the chat feature. Rather than relying on different channels for broadly defined teams where occasionally multiple teams talk over each other, Karaban draws on the idea of the "continuing the converation" feature by giving each card it's own chat over having an in-depth description.
+
+Kanban boads are nothing new. Products like JIRA, Monday, and Trello are great tools using them and are extremely flexible and customizable with powerups and customer integrations. However, for many projects, especially early-stage ones, customizability and uniqueness in the meta of project management is a large overhead and obstacle towards actually getting started on building the thing.
+
+In providing an opinionated toolset to build with rather than a blank canvas to paint upon, Karaban aims to give small and mid-size teams hyper-agility at the cost of customization much the way Firebase is quick to develop and easy for new devs to pick up compared to a swarm of custom microservice backends along with their architecture and infrastructure.
+
+To get started, go to karaban.dev, create an account, and create your first board. You probably want to invite some of your collaborators to it as well.
+JIRA is the best tool possible for running large organizations as agile as possible
+
 
 ## Links
 
